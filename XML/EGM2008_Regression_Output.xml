@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
+<article lang="">
+  <para/>
+  <para/>
+  <para>In [5]: runfile('D:/2020-2021 Gün Dönemi (Uzaktan Eğitim)/Bitirme Tezi/Thesis/EGM2008_Regression.py', wdir='D:/2020-2021 Gün Dönemi (Uzaktan Eğitim)/Bitirme Tezi/Thesis')</para>
+  <para/>
+  <para>Created on Mon Feb 8 11:22:25 2021</para>
+  <para>@author: doguilmak</para>
+  <para/>
+  <para>https://www.w3schools.com/python/python_ml_linear_regression.asp</para>
+  <para>https://scikit-learn.org/stable/modules/model_evaluation.html#r2-score</para>
+  <para/>
+  <para/>
+  <para>&lt;class 'pandas.core.frame.DataFrame'&gt;</para>
+  <para>RangeIndex: 334 entries, 0 to 333</para>
+  <para>Data columns (total 3 columns):</para>
+  <para># Column Non-Null Count Dtype </para>
+  <para>--- ------ -------------- ----- </para>
+  <para>0 EGM2008 334 non-null float64</para>
+  <para>1 EGM96 334 non-null float64</para>
+  <para>2 num 334 non-null int64 </para>
+  <para>dtypes: float64(2), int64(1)</para>
+  <para>memory usage: 8.0 KB</para>
+  <para>&lt;Figure size 864x432 with 0 Axes&gt;</para>
+  <para/>
+  <para>Prediction of the Height Anomalies:</para>
+  <para>Linear Regression:</para>
+  <para>[[38.97268261]]</para>
+  <para/>
+  <para>Polinomal Regression(degree=2):</para>
+  <para>[[38.91447824]]</para>
+  <para/>
+  <para>Polinomal Regression(degree=4):</para>
+  <para>[[39.37559137]]</para>
+  <para/>
+  <para>Decision Tree:</para>
+  <para>[42.386]</para>
+  <para/>
+  <para>RVS Radial Bases Function:</para>
+  <para>[-0.29697658]</para>
+  <para/>
+  <para>Random Forest:</para>
+  <para>[42.7875]</para>
+  <para/>
+  <para/>
+  <para>R² Values of the Regressions:</para>
+  <para/>
+  <para>Linear Regression R² value</para>
+  <para>0.5312089459233763</para>
+  <para/>
+  <para>Polynomial Regression R² value(degree=2)</para>
+  <para>0.5313858116741699</para>
+  <para/>
+  <para>Polynomial Regression R² value(degree=4)</para>
+  <para>0.5684365862611813</para>
+  <para/>
+  <para>In [6]: </para>
+</article>

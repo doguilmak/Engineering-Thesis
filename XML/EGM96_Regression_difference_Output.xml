@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
+<article lang="">
+  <para/>
+  <para/>
+  <para>In [5]: Removing all variables... </para>
+  <para/>
+  <para/>
+  <para>In [5]: runfile('D:/2020-2021 Gün Dönemi (Uzaktan Eğitim)/Bitirme Tezi/Thesis/EGM96_Regression.py', wdir='D:/2020-2021 Gün Dönemi (Uzaktan Eğitim)/Bitirme Tezi/Thesis')</para>
+  <para/>
+  <para>Created on Mon Feb 8 15:47:39 2021</para>
+  <para>@author: doguilmak</para>
+  <para/>
+  <para>https://www.w3schools.com/python/python_ml_linear_regression.asp</para>
+  <para>https://scikit-learn.org/stable/modules/model_evaluation.html#r2-score</para>
+  <para/>
+  <para/>
+  <para>&lt;class 'pandas.core.frame.DataFrame'&gt;</para>
+  <para>RangeIndex: 334 entries, 0 to 333</para>
+  <para>Data columns (total 5 columns):</para>
+  <para># Column Non-Null Count Dtype </para>
+  <para>--- ------ -------------- ----- </para>
+  <para>0 EGM2008 334 non-null float64</para>
+  <para>1 EGM96 334 non-null float64</para>
+  <para>2 num 334 non-null int64 </para>
+  <para>3 dif08 334 non-null float64</para>
+  <para>4 dif96 334 non-null float64</para>
+  <para>dtypes: float64(4), int64(1)</para>
+  <para>memory usage: 13.2 KB</para>
+  <para>&lt;Figure size 864x432 with 0 Axes&gt;</para>
+  <para/>
+  <para>Standard Deviation of EGM96 height anomalies: 0.1881279243107477 m</para>
+  <para>Variance of EGM96 height anomalies: 0.035392115905470416 m</para>
+  <para>Mean of the EGM96 height anomalies: -0.5221071886227545 m</para>
+  <para/>
+  <para>Prediction of the Height Anomalies:</para>
+  <para>Linear Regression:</para>
+  <para>[[-0.67217154]]</para>
+  <para/>
+  <para>Polinomal Regression(degree=2):</para>
+  <para>[[-0.6467613]]</para>
+  <para/>
+  <para>Polinomal Regression(degree=4):</para>
+  <para>[[-0.65500963]]</para>
+  <para/>
+  <para>Decision Tree:</para>
+  <para>[-0.630501]</para>
+  <para/>
+  <para>RVS Radial Bases Function:</para>
+  <para>[0.20003686]</para>
+  <para/>
+  <para>Random Forest:</para>
+  <para>[-0.5871478]</para>
+  <para/>
+  <para/>
+  <para>R² Values of the Regressions:</para>
+  <para/>
+  <para>Linear Regression R² value</para>
+  <para>0.34795869787374467</para>
+  <para/>
+  <para>Polynomial Regression R² value(degree=2)</para>
+  <para>0.3692151047575999</para>
+  <para/>
+  <para>Polynomial Regression R² value(degree=4)</para>
+  <para>0.3801233009676803</para>
+  <para/>
+  <para>In [6]: </para>
+</article>
